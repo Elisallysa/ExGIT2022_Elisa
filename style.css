@@ -8,11 +8,11 @@ body{
     background-color: #fdfdfd;
     height: 100%;
     margin:0;
-    font-family: "Arial", "Sans", cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .header{
-    background-color: rgb(70, 7, 18);
+    background-color: #496ad8;
     color: #fdfdfd;
     text-align: center;
     padding: 20px;
@@ -41,13 +41,15 @@ body{
 
 .contenido{
     padding: 15px;
-    font-size:40px;
+    /**font-size:40px;
+    
     background-color: rgb(255, 245, 245);
+    **/
 }
 
 .footer{
     
-    background-color: rgb(70, 7, 18);
+    background-color: #aeb5ce;
     padding: 20px;
     clear: both;
 }
