@@ -1,6 +1,6 @@
 # Web del módulo de Entornos de Desarrollo
 
-*Curso 2021/2022*
+**Curso 2021/2022**
 
 En este repositorio encontramos los contenidos tratados en el curso:
 
@@ -11,4 +11,4 @@ En este repositorio encontramos los contenidos tratados en el curso:
 
 En la página web del [IES Pablo Picasso](https://iespablopicasso.es/web/) podrás encontrar más información.
 
-(https://iespablopicasso.es/web/wp-content/uploads/2019/09/cropped-picassosemuevepicassosetransformamedio-1.png)
+![logo](https://iespablopicasso.es/web/wp-content/uploads/2019/09/cropped-picassosemuevepicassosetransformamedio-1.png)
