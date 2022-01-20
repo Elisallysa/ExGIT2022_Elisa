@@ -8,11 +8,11 @@ body{
     background-color: #fdfdfd;
     height: 100%;
     margin:0;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: "Arial", "Sans", cursive;
 }
 
 .header{
-    background-color: pink;
+    background-color: rgb(70, 7, 18);
     color: #fdfdfd;
     text-align: center;
     padding: 20px;
@@ -21,14 +21,14 @@ body{
 
 .topnav{
     overflow: hidden;
-    background-color: #333;
+    background-color: rgba(255, 162, 56, 0.829);
    
 }
 
 .topnav a{
     float: left;
     display: block;
-    color: #fdfdfd;
+    color: #ffefef;
     text-align: center;
     text-decoration: none;
     padding: 14px 18px;
@@ -42,12 +42,12 @@ body{
 .contenido{
     padding: 15px;
     font-size:40px;
-    background-color: purple;
+    background-color: rgb(255, 245, 245);
 }
 
 .footer{
     
-    background-color: yellow;
+    background-color: rgb(70, 7, 18);
     padding: 20px;
     clear: both;
 }
